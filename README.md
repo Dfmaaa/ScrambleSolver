@@ -5,3 +5,5 @@
  it can be used to decipher scrambled sentences.
 ## Tip
  have the input wordlist file have 10000 or 100000 words so that it can be more accurate.
+## Compiler information
+  version: 11.0.13
